@@ -3,7 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 
 const Signup = () => {
-  return ( <Container maxW={'container.xl'} h={'100vh'} p={'16'}>
+  return ( <Container maxW={'container.xl'} h={'100vh'} p={'1'}>
     <form>
        <VStack 
         alignItems={'stretch'}
